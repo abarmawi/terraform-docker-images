@@ -10,8 +10,8 @@ ARG BUILD_DATE
 LABEL maintainer="Abdallah Albarmawi <abarmawi@live.com>"
 LABEL org.label-schema.name="terraform & terragrunt image"
 LABEL org.label-schema.description="This image contains terraform & terragrunt executables"
-LABEL org.label-schema.usage="https://github.com/abarmawi/backend/terraform-docker-images/-/blob/master/terraform/README.md"
-LABEL org.label-schema.url="https://github.com/abarmawi/backend/terraform-docker-images/-/blob/master/terraform/README.md"
+LABEL org.label-schema.usage="https://github.com/abarmawi/terraform-docker-images/blob/master/README.md"
+LABEL org.label-schema.url="https://github.com/abarmawi/terraform-docker-images/"
 LABEL org.label-schema.vcs-ref=$VCS_REF
 LABEL org.label-schema.schema-version=$VERSION
 LABEL org.label-schema.build-date=$BUILD_DATE
